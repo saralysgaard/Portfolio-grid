@@ -27,6 +27,9 @@ body{
   background-color: #FAB135;
   background-size: cover;
   background-image: url(../img/minimal.png);
+  background-repeat: none;
+  background-attachment: fixed;
+  background-position: center;
 }
 
   .one h1{
@@ -286,6 +289,11 @@ body{
   display: inline-block;
   padding: 2rem;
   padding-left: 4rem;
+  background-size: cover;
+  background-image: url(../img/minimal.png);
+  background-repeat: none;
+  background-attachment: fixed;
+  background-position: center;
 }
 
   .container1{

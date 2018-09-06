@@ -45,10 +45,18 @@ body{
   margin-left: 7rem;
 }
 
+.portrait4_img p{
+  font-size: 20px;
+}
+
 .portrait3_img{
-  margin-top: -1053px;
+  margin-top: -1067px;
   float: right;
   margin-right: 7rem;
+}
+
+.portrait3_img p{
+  font-size: 20px;
 }
 
 .portrait5_img p {
