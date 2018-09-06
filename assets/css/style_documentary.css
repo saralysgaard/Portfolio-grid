@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body{
+  color: #FFF;
+  font-family: "Futura";
+  text-align: center;
+}
+
+.documentary {
+  font-size: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.video p{
+  font-size: 19px;
+}
