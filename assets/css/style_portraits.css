@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body{
+  color: #fff;
+  font-family: "Futura";
+}
+
+
+.Portraits {
+  font-size: 60px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.portrait1_img p {
+  text-align: left;
+}
+
+.portrait1_img img {
+  width: 70%;
+}
+
+.portrait1_img {
+  display: block;
+  top: 0; bottom:0; left: 0; right:0;
+  margin: auto;
+}
+
+.background {
+    background-image: url("../assets/img/minimalism.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
