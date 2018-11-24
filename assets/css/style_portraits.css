@@ -11,6 +11,20 @@ body{
   text-align: center;
 }
 
+.portraits a{
+  text-decoration: none;
+  font-size: 16px;
+  color: #FFF;
+  position: absolute;
+  margin-top: -50px;
+  margin-bottom: 50px;
+  margin-left: -226px;
+}
+
+.portraits a:hover{
+  color: grey;
+}
+
 .portrait1_img p {
   text-align: left;
   margin-left: 15%;
@@ -32,7 +46,7 @@ body{
 }
 
 .portrait2_img img {
-  width: 70%;
+  width: 50%;
 }
 
 .portrait2_img {
@@ -42,7 +56,11 @@ body{
 }
 
 .portrait4_img{
-  margin-left: 7rem;
+  text-align: center;
+}
+
+.portrait4_img img{
+  width: 50%;
 }
 
 .portrait4_img p{
@@ -50,26 +68,14 @@ body{
 }
 
 .portrait3_img{
-  margin-top: -1067px;
-  float: right;
-  margin-right: 7rem;
+  text-align: center;
+}
+
+.portrait3_img img{
+  width: 50%;
+  margin-top: 3em;
 }
 
 .portrait3_img p{
   font-size: 20px;
-}
-
-.portrait5_img p {
-  text-align: left;
-  margin-left: 15%;
-  font-size: 20px;
-}
-
-.portrait5_img img {
-  width: 70%;
-}
-
-.portrait5_img {
-  text-align: center;
-  margin-top: 5rem;
 }

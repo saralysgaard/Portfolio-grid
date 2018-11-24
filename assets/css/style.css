@@ -61,7 +61,7 @@ body{
   grid-row: 6 / 9;
   background-color: #7EA5E2;
   background-size: cover;
-  background-image: url(../img/tibias.jpg);
+  background-image: url(../img/erik1.jpg);
 
 }
 
@@ -150,13 +150,26 @@ body{
     margin-top: -1em;
   }
 
+  .three a:hover{
+    color: grey;
+  }
+
 .four{
   grid-column: 1 / 5;
   grid-row: 9 / 12;
   background-color: #5ABE25;
-  background-image: url(https://images.unsplash.com/photo-1518727843920-f20013dd0760?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=bf83f3084c75fcd8537f12ae119f5bef&auto=format&fit=crop&w=3299&q=80);
+  background-image: url(../img/trumpatouille.jpg);
   background-size: cover;
 }
+
+  .four a{
+    text-decoration: none;
+    color: #fff
+  }
+
+  .four a:hover{
+    color: grey;
+  }
 
   .overlay4{
     height: 100%;
@@ -187,7 +200,7 @@ body{
   grid-column: 5 / 8;
   grid-row: 9 / 12;
   background-color: #CE171C;
-  background-image: url(https://images.unsplash.com/photo-1517486430290-35657bdcef51?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=48e124c4b3b1b63b73b11f572f5216e0&auto=format&fit=crop&w=2555&q=80);
+  background-image: url(../img/ap.jpg);
   background-size: cover;
 }
 
@@ -214,6 +227,15 @@ body{
     background-color: #FFF;
     height: .2rem;
     border: 0;
+  }
+
+  .five a{
+    text-decoration: none;
+    color: #FFF;
+  }
+
+  .five a:hover{
+    color: grey;
   }
 
 .six{
