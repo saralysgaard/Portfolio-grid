@@ -318,6 +318,10 @@ body{
   background-position: center;
 }
 
+  .eight img{
+    margin-top: 3rem;
+  }
+
   .container1{
     width: calc(50% - 2rem);
     text-align: left;
